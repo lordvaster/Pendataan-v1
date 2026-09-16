@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# Upload folders
+uploads/ktp/*
+uploads/stnk/*
+uploads/kendaraan/*
+uploads/foto_kendaraan/*
+!uploads/ktp/.gitkeep
+!uploads/stnk/.gitkeep
+!uploads/kendaraan/.gitkeep
+!uploads/foto_kendaraan/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+*.bak
+*.backup
+backup_*.sql
+
+# Temporary files
+tmp/
+temp/
+cache/
