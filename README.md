@@ -920,4 +920,4 @@ For security issues:
 
 **Version:** 1.0.0  
 **Last Updated:** 2025-01-XX  
-**Maintained by:** Bapenda Kabupaten Barito Timur IT Team
+**Maintained by:** Zeday
